@@ -1,0 +1,1 @@
+# curseforge-minecraft-mod-updater
